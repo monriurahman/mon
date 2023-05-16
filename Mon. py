@@ -1,0 +1,7 @@
+apt update 
+apt update 
+apt install
+apt install git
+ls
+cd. Mon.py
+git clonehttps://github.com/monriurahman/mon.git
